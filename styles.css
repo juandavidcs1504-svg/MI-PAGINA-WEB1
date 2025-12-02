@@ -1,0 +1,55 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado */
+#encabezado {
+    background-color: #004aad;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+.titulo-principal {
+    font-size: 32px;
+    margin: 0;
+}
+
+.subtitulo {
+    font-size: 18px;
+}
+
+/* Secciones */
+.seccion {
+    padding: 20px;
+    margin: 20px;
+    background-color: #ffffff;
+    border-left: 5px solid #004aad;
+    border-radius: 8px;
+}
+
+.titulo-seccion {
+    font-size: 24px;
+    color: #004aad;
+}
+
+.texto {
+    font-size: 16px;
+}
+
+/* Lista */
+.lista li {
+    margin-bottom: 8px;
+}
+
+/* Pie de página */
+#pie {
+    text-align: center;
+    background-color: #002f6c;
+    color: white;
+    padding: 10px;
+}
